@@ -2,12 +2,14 @@
 
 #### I am working on IoT projects with
 
-![i][arrow] Hardware and Software for ESP8266 and ESP32  
-![i][arrow] Software and Software for ESP8266 and ESP32
+![i][arrow] Hardware- and Softwaredevelopment for ESP8266 and ESP32  
+![i][arrow] Hardware- and Softwaredevelopment for ESP8266 and ESP32
 
 #### and different app projects using
 
 ![i][arrow] Flutter
+![i][arrow] Android Studio
+![i][arrow] xCode
 
 #### I know how to use the following languages
 
