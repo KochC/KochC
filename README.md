@@ -10,4 +10,4 @@ and different app projects using
 
 - Flutter
 
-[arrow]: https://img.icons8.com/small/16/000000/long-arrow-right.png
+[arrow]: https://img.icons8.com/small/20/000000/long-arrow-right.png
