@@ -7,8 +7,8 @@
 
 #### and different app projects using
 
-![i][arrow] Flutter
-![i][arrow] Android Studio
+![i][arrow] Flutter  
+![i][arrow] Android Studio  
 ![i][arrow] xCode
 
 #### I know how to use the following languages
