@@ -9,4 +9,6 @@ and different app projects using
 
 - Flutter
 
-![itemize](https://img.icons8.com/small/16/000000/star.png)
+![star][itemize]
+
+[itemize]: https://img.icons8.com/small/16/000000/star.png
