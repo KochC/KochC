@@ -3,7 +3,6 @@
 #### I am working on IoT projects with
 
 ![i][arrow] Hardware- and Softwaredevelopment for ESP8266 and ESP32  
-![i][arrow] Hardware- and Softwaredevelopment for ESP8266 and ESP32
 
 #### and different app projects using
 
@@ -20,6 +19,11 @@
 ![i][arrow] Python  
 ![i][arrow] Go  
 ![i][arrow] Java  
-![i][arrow] Swift
+![i][arrow] Swift 
+
+### # And use some of the following frameworks
+ 
+![i][arrow] React  
+![i][arrow] Vue 
 
 [arrow]: https://img.icons8.com/small/10/000000/long-arrow-right.png
