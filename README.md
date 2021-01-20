@@ -1,29 +1,33 @@
-## Hi there
+## Hi there,
+I am a super full stack developer, building a lot of cool things.
 
-#### I am working on IoT projects with
+#### I build software on all kinds of hardware
 
-![i][arrow] Hardware- and Softwaredevelopment for ESP8266 and ESP32  
+‣ Windows  
+‣ Linux  
+‣ OSX  
+‣ RTOS  
+‣ ESP32 / ESP8266  
+‣ Arduino  
 
-#### and different app projects using
+#### I use a lot of different lamguages
+‣ C/C++  
+‣ Go  
+‣ Haskell  
+‣ JavaScript / Typescript  
+‣ Python  
+‣ Dart  
 
-![i][arrow] Flutter  
-![i][arrow] Android Studio  
-![i][arrow] xCode
-
-#### I know how to use the following languages
-
-![i][arrow] C/C++  
-![i][arrow] Dart  
-![i][arrow] JavaScript/TypeScript  
-![i][arrow] Haskell  
-![i][arrow] Python  
-![i][arrow] Go  
-![i][arrow] Java  
-![i][arrow] Swift 
-
-### # And use some of the following frameworks
+#### I use different tools to develop
  
-![i][arrow] React  
-![i][arrow] Vue 
+‣ VSCode  
+‣ Docker  
+‣ GitHub  
+‣ Android Studio  
+‣ xCode  
 
-[arrow]: https://img.icons8.com/small/10/000000/long-arrow-right.png
+#### I use some of the following frameworks
+
+‣ Flutter  
+‣ React   
+‣ Vue  
