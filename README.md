@@ -27,7 +27,7 @@ I am a super full stack developer, building a lot of cool things.
 ‣ xCode  
 
 #### I use some of the following frameworks
-‣ OpenCV
+‣ OpenCV  
 ‣ Flutter  
 ‣ React   
 ‣ Vue  
