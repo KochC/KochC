@@ -10,7 +10,7 @@ I am a super full stack developer, building a lot of cool things.
 ‣ ESP32 / ESP8266  
 ‣ Arduino  
 
-#### I use a lot of different lamguages
+#### I use a lot of different languages
 ‣ C/C++  
 ‣ Go  
 ‣ Haskell  
@@ -27,7 +27,7 @@ I am a super full stack developer, building a lot of cool things.
 ‣ xCode  
 
 #### I use some of the following frameworks
-
+‣ OpenCV
 ‣ Flutter  
 ‣ React   
 ‣ Vue  
