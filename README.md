@@ -7,8 +7,10 @@ I am a super full stack developer, building a lot of cool things.
 ‣ Linux  
 ‣ OSX  
 ‣ RTOS  
-‣ ESP32 / ESP8266  
+‣ ESP32  
+‣ ESP8266  
 ‣ Arduino  
+‣ STM32
 
 #### I use a lot of different languages
 ‣ C/C++  
@@ -31,3 +33,4 @@ I am a super full stack developer, building a lot of cool things.
 ‣ Flutter  
 ‣ React   
 ‣ Vue  
+‣ Boost
