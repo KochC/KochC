@@ -1,6 +1,9 @@
 ## Hi there,
 I am a super full stack developer, building a lot of cool things.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kochc&hide=stars,contribs&show_icons=true)
+
+
 #### I build software on all kinds of hardware
 
 ‣ Windows  
