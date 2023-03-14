@@ -16,7 +16,7 @@ I am a super full stack developer, building a lot of cool things.
 ‣ STM32
 
 #### I use a lot of different languages
-‣ Python
+‣ Python  
 ‣ C/C++  
 ‣ Go  
 ‣ Haskell  
@@ -27,9 +27,11 @@ I am a super full stack developer, building a lot of cool things.
 #### I use different tools to develop
  
 ‣ VSCode  
-‣ Azure
-‣ AWS
+‣ Azure  
+‣ AWS  
 ‣ Docker  
 ‣ GitHub  
 ‣ Android Studio  
-‣ xCode
+‣ xCode  
+‣ GTP  
+‣ Guthub Co Pilot   
