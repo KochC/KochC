@@ -7,8 +7,8 @@ I am a super full-stack developer, building a lot of cool things.
 #### I build software on all kinds of systems
 
 ‣ Windows  
-‣ Linux
-‣ macOS
+‣ Linux  
+‣ macOS  
 ‣ RTOS  
 ‣ ESP32  
 ‣ ESP8266  
