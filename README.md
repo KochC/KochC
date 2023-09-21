@@ -1,14 +1,14 @@
 ## Hi there,
-I am a super full stack developer, building a lot of cool things.
+I am a super full-stack developer, building a lot of cool things.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kochc&hide=stars,contribs&show_icons=true)
 
 
-#### I build software on all kinds of hardware
+#### I build software on all kinds of systems
 
 ‣ Windows  
-‣ Linux  
-‣ OSX  
+‣ Linux
+‣ macOS
 ‣ RTOS  
 ‣ ESP32  
 ‣ ESP8266  
@@ -16,22 +16,17 @@ I am a super full stack developer, building a lot of cool things.
 ‣ STM32
 
 #### I use a lot of different languages
+
 ‣ Python  
 ‣ C/C++  
 ‣ Go  
 ‣ Haskell  
 ‣ JavaScript / Typescript  
-‣ Python  
 ‣ Dart  
 
 #### I use different tools to develop
  
 ‣ VSCode  
-‣ Azure  
-‣ AWS  
 ‣ Docker  
-‣ GitHub  
 ‣ Android Studio  
 ‣ xCode  
-‣ GTP  
-‣ Guthub Co Pilot   
